@@ -1,0 +1,8 @@
+# Core
+langgraph>=0.2.0
+langsmith>=0.1.120
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
